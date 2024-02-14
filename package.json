@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://hansel.run",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "cassidoo",
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
