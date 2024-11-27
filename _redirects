@@ -1,11 +1,14 @@
 # referral codes
 
 ## offline charlotte
-/ref/offlinecharlotte     https://app.letsgetoffline.com/signup/charlotte?autofill_referral=hanselwei
-/offlinecharlotte     https://app.letsgetoffline.com/signup/charlotte?autofill_referral=hanselwei
+/offlinecharlotte         https://app.letsgetoffline.com/signup/charlotte?autofill_referral=hanselwei
+/rungne                   https://rungne.com/hanselrocks
+/instacart                https://hansel.run/instacart
 
-## instacart
-/ref/instacart      https://hansel.run/instacart
+### referral ref
+/ref/offlinecharlotte     /offlinecharlotte
+/ref/rungne               /rungne 
+/ref/instacart            /instacart
 
 ## discord
 /discord https://hansel.run/tavern
@@ -14,12 +17,12 @@
 /shortcuts/innerpeaks https://www.icloud.com/shortcuts/6a4293c360e54a858065df8271cf3cd7
 
 ## anime
-/animerecs https://docs.google.com/spreadsheets/d/16c9tyWuT2XuNfVhH1TtHuEAzargSiTX11-O5EM7v8fI/edit
-
+/animerecs       https://docs.google.com/spreadsheets/d/16c9tyWuT2XuNfVhH1TtHuEAzargSiTX11-O5EM7v8fI/edit
 
 ## photography redirect
-/media https://hansel.run/media
-/qcbb/2024 https://hansel.run/media/qcbb/2024
+/media           https://hansel.run/media
+/qcbb/2024       https://hansel.run/media/qcbb/2024
 
 # fallback
+/ig             https://instagram.com/hansel.rocks
 /*              https://instagram.com/hansel.rocks
