@@ -12,6 +12,11 @@
 /ref/instacart            /instacart
 /ref/solostove            /solostove 
 
+# profile redirects
+/strava                  https://strava.app.link/FJDBQiwwsPb
+/aac                     https://profile.americanalpineclub.org/users/eJRa4wMX
+/americanalpineclub      /aac
+
 ## discord
 /discord https://hansel.run/tavern
 
