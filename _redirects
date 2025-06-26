@@ -31,7 +31,7 @@
 
 ## photography redirect
 /media           https://hansel.run/media
-/qcbb/2024       https://hansel.run/media/qcbb/2024
+# /qcbb/2024       https://hansel.run/media/qcbb/2024
 
 # fallback
 /ig             https://instagram.com/hansel.rocks
